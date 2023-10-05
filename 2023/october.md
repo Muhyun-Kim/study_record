@@ -27,3 +27,9 @@
 ### php
 
 - Laravel 個人開発
+
+## 5 日
+
+### git
+
+- github 設定変更
