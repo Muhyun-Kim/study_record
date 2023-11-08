@@ -36,14 +36,24 @@
 
 - work-input-app
 
-## 5日
+## 6日
 
 ### nextjs
 
 - work-input-app
 
-## 6日
+## 7日
 
 ### 業務関連
 
 - テスト自動化
+
+## 8日
+
+### 業務関連
+
+- バグ修正
+
+### nextjs
+
+- work-input-app
