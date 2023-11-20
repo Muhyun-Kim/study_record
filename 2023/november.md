@@ -136,3 +136,13 @@ chrome extension開発
 
 講義学習
 
+## 17日
+
+### 業務関連
+
+機能改善
+テスト自動化
+
+### openAI
+
+openAI chat model 学習
