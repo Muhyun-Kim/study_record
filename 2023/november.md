@@ -146,3 +146,13 @@ chrome extension開発
 ### openAI
 
 openAI chat model 学習
+
+## 18日
+
+### 業務関連
+
+機能改善
+
+### express
+
+講義学習
