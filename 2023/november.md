@@ -156,3 +156,9 @@ openAI chat model 学習
 ### express
 
 講義学習
+
+## 18日
+
+### 業務関連
+
+機能改善
