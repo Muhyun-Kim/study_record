@@ -136,7 +136,7 @@ chrome extension開発
 
 講義学習
 
-## 17日
+## 20日
 
 ### 業務関連
 
@@ -147,7 +147,7 @@ chrome extension開発
 
 openAI chat model 学習
 
-## 18日
+## 21日
 
 ### 業務関連
 
@@ -157,8 +157,15 @@ openAI chat model 学習
 
 講義学習
 
-## 18日
+## 22日
 
 ### 業務関連
 
 機能改善
+
+
+## 23日
+
+### echo
+
+メモアプリ作成
