@@ -111,3 +111,13 @@ Clean Code
 ### react
 
 x clone code
+
+18日
+
+### 業務関連
+
+テスト自動化
+
+### CS
+
+基本情報
