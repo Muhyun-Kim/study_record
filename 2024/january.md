@@ -75,3 +75,9 @@ work-input-app
 ### react
 
 work-input-app
+
+14日
+
+### flutter
+
+お酒アプリ
