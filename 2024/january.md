@@ -95,3 +95,9 @@ work-input-app
 ### 業務関連
 
 新機能追加
+
+17日
+
+### seminar
+
+janog
