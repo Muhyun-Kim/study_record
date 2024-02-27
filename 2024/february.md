@@ -154,3 +154,9 @@ window環境構築
 ### 業務関連
 
 docker環境構築
+
+27日
+
+### 業務関連
+
+shell script作成
