@@ -9,3 +9,9 @@ docker gui調査
 ### 開発
 
 power shell
+
+3日
+
+### 開発
+
+shell script
