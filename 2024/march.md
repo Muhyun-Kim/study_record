@@ -15,3 +15,9 @@ power shell
 ### 開発
 
 shell script
+
+4日
+
+### 業務関連
+
+バグ修正
