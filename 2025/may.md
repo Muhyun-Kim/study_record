@@ -13,3 +13,7 @@
 4 日
 
 - ラズベリーパイ学習
+
+5 日
+
+- google document 取得 api 作成
