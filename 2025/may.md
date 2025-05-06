@@ -17,3 +17,7 @@
 5 日
 
 - google document 取得 api 作成
+
+6 日
+
+- google document 取得 api 作成
