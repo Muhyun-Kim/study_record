@@ -21,3 +21,7 @@
 6 日
 
 - google document 取得 api 作成
+
+7 日
+
+- 結婚式招待状修正
