@@ -37,3 +37,7 @@
 10 日
 
 - pokemon unite api 調査
+
+11 日
+
+- fastapi 学習
