@@ -41,3 +41,7 @@
 11 日
 
 - fastapi 学習
+
+12 日
+
+- windsurf 調査
