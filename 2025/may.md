@@ -69,3 +69,7 @@
 18 日
 
 - chzzk pj
+
+19 日
+
+- chzzk pj
