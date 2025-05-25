@@ -93,3 +93,7 @@
 23 日
 
 - chzzk pj
+
+24 日
+
+- chzzk pj
