@@ -97,3 +97,7 @@
 24 日
 
 - chzzk pj
+
+26 日
+
+- change lang inbang api
