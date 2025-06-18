@@ -65,3 +65,7 @@
 17 日
 
 - japan_travel app
+
+18 日
+
+- connect private project to mcp server
