@@ -21,3 +21,7 @@
 6 日
 
 - japan_travel app
+
+7 日
+
+- japan_travel app
