@@ -81,3 +81,7 @@
 21 日
 
 - japan_travel app
+
+22 日
+
+- update resume
