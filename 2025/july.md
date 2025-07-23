@@ -85,3 +85,7 @@
 22 日
 
 - update resume
+
+24 日
+
+- update resume
