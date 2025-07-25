@@ -93,3 +93,7 @@
 24 日
 
 - japan_travel app
+
+25 日
+
+- search way to make win_desktop app
