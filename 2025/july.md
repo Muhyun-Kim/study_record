@@ -97,3 +97,7 @@
 25 日
 
 - search way to make win_desktop app
+
+27 日
+
+- make win_desktop app
